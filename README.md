@@ -1,5 +1,6 @@
 ### Hi there 👋
-I hold a Master’s degree in Cognitive Science and have a strong interest in deep learning and computer vision. In my master’s thesis, I focused on bioimage analysis using advanced deep learning techniques. I possess a solid theoretical and practical understanding of deep learning methodologies. I am eager to apply my skills and passion to new opportunities in the rapidly evolving fields of AI and deep learning.
+I hold a Master’s degree in Cognitive Science and have a strong interest in data science, deep learning, and computer vision. In my master’s thesis, I focused on bioimage analysis using advanced deep learning techniques. 
+As a research assistant, student assistant, and student tutor, I have gained extensive programming and debugging skills and possess a solid theoretical and practical understanding of data science and deep learning methodologies. I am eager to apply my skills and passion to new opportunities in the rapidly evolving fields of AI and deep learning.
 
 <!--
 **ArghaSarker/ArghaSarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
