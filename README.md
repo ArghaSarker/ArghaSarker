@@ -31,21 +31,25 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 - Achieved improved reconstruction speed and quality compared to traditional Fourier-based methods.  
 - Application: Low SNR fluorescence microscopy data in bioimage analysis.
 
+
 ### 🔬 Data Augmentation with Variational Autoencoder
 **Demo** [https://github.com/ArghaSarker/Data_augmentation_with_VAE]
 - Built a VAE to generate synthetic microscopy data, supporting improved deep learning training.  
 - Helped address challenges with limited high-resolution datasets in bioimage analysis.
+
 
 ### 🛡️ Study Project: *Protect Your Privacy*
 **Demo** -  Not available due to company ownership. 
 - Collaborated with LMIS GmbH to develop a privacy-preserving solution based on GDPR.  
 - Focused on anonymization of license plates, faces, tattoos, texts, and screens using DL models.
 
+
 ### 👁️ Saccadic Eye Movement NET
 **Demo** [https://github.com/madammann/SaccadicEyeMovementNET]
 - Engineered a pipeline to fetch, preprocess, and generate data for image classification.  
 - Combined CNN and LSTM for spatio-temporal feature extraction.  
 - Investigated the use of reinforcement learning for visual signal classification.
+
 
 ### 📊 COVID-19 Global Data EDA
 **Demo** [https://github.com/ArghaSarker/COVID-19-Global-data-EDA-]
