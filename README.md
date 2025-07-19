@@ -19,10 +19,13 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 ## 🚀 Projects
 
 ### 🎓 Master’s Thesis: * AI-based Reconstruction and Denoising for Robust Structured Illumination Microscopy at Low Signal-to-Noise Ratios.*
-**Read my thesis here:**  []
-**Demo** [https://github.com/ArghaSarker/RDL_denoising]
-**Demo** [https://github.com/ArghaSarker/projection_upsampling_network]
+
 **Read my thesis here:** [https://github.com/ArghaSarker/Mather-Thesis-]
+
+**Demo** [https://github.com/ArghaSarker/RDL_denoising]
+
+**Demo** [https://github.com/ArghaSarker/projection_upsampling_network]
+
 
 - Developed a robust SIM reconstruction model to enhance image resolution using deep learning.  
 - Achieved improved reconstruction speed and quality compared to traditional Fourier-based methods.  
