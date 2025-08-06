@@ -18,6 +18,12 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 
 ## 🚀 Projects
 
+### LLM_project: A code base to test FLAN-T5 model on diologue Summarization capability with LoRA
+**Demo** [https://github.com/ArghaSarker/llm_project]
+- Compared the base model  vs full instruction fine-tuned model vs PEFT fine-tuned model.
+- upcoming: RLHF and model distillation
+
+
 ### 🎓 Master’s Thesis: * AI-based Reconstruction and Denoising for Robust Structured Illumination Microscopy at Low Signal-to-Noise Ratios.*
 
 **Read my thesis here:** [https://github.com/ArghaSarker/Mather-Thesis-]
