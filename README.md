@@ -18,7 +18,7 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 
 ## 🚀 Projects
 
-### LLM_project: A code base to test FLAN-T5 model on diologue Summarization capability with LoRA
+### ㊗ LLM_project: A code base to test FLAN-T5 model on diologue Summarization capability with LoRA
 **Demo** [https://github.com/ArghaSarker/llm_project]
 - Compared the base model  vs full instruction fine-tuned model vs PEFT fine-tuned model.
 - upcoming: RLHF and model distillation
