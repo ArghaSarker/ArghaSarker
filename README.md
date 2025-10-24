@@ -8,9 +8,10 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 
 ## 🧠 Key Skills
 
-- **Programming Languages**: Python, C++
+- **Programming Languages**: Python, R, C++
 - **Deep Learning & Computer Vision**: TensorFlow, PyTorch, Keras, OpenCV, Numpy, Scikit-Image  
-- **Data Science & NLP**: Pandas, Scikit-Learn, NLTK, Transformer Architectures, Generative AI  
+- **Data Science & NLP**: Pandas, Scikit-Learn, NLTK, Transformer Architectures, Generative AI 
+- **LLMs & AI Agents**: LangChain, LangGraph, CrewAI, Gradio
 - **Tools**: Git, GitLab, Docker, Visual Studio, MLFlow  
 - **Operating Systems**: Linux, Windows
 
