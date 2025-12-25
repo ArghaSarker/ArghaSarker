@@ -19,6 +19,14 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 
 ## 🚀 Projects
 
+### 🦠 MitoSAM: A fine-tuned SAM for mitochondria segmentation
+**Demo** [https://github.com/ArghaSarker/mitosam-vit]
+
+- Fine-tuned Segment Anything Model (SAM) for mitochondria segmentation using LoRA for efficient domain adaptation.
+- Ran experiments comparing prompting strategies and measured their impact on segmentation quality and robustness.
+- Used xAI techniques to interpret predictions, analyze failure cases, and strengthen confidence in model behavior to improve trustworthiness for biomedical image applications.
+
+
 ### ㊗ LLM_project: A code base to test FLAN-T5 model on diologue Summarization capability with LoRA
 **Demo** [https://github.com/ArghaSarker/llm_project]
 - Compared the base model  vs full instruction fine-tuned model vs PEFT fine-tuned model.
