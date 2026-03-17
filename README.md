@@ -54,8 +54,10 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 
 
 ### 🛡️ Study Project: *Protect Your Privacy*
-**Demo** -  Not available due to company ownership. 
+**Demo** -  Not available due to company ownership
+
 **project report** - https://github.com/ArghaSarker/Protect_your_privacy
+
 - Collaborated with LMIS GmbH to develop a privacy-preserving solution based on GDPR.  
 - Focused on anonymization of license plates, faces, tattoos, texts, and screens using DL models.
 
