@@ -26,6 +26,10 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 - Ran experiments comparing prompting strategies and measured their impact on segmentation quality and robustness.
 - Used xAI techniques to interpret predictions, analyze failure cases, and strengthen confidence in model behavior to improve trustworthiness for biomedical image applications.
 
+### 🤓 Ask a Nerd   
+**Demo** [https://github.com/ArghaSarker/Ask-a-Nerd]
+A RAG-based document analysis application that lets users upload PDFs and chat with their content using LangChain, OpenAI, and vector search.
+
 
 ### ㊗ LLM_project: A code base to test FLAN-T5 model on diologue Summarization capability with LoRA
 **Demo** [https://github.com/ArghaSarker/llm_project]
