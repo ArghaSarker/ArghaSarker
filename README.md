@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Argha Sarker!
 
-I’m a Master’s graduate in Cognitive Science with a strong passion for **Deep Learning**, and **Computer Vision**. In my Master’s thesis, I explored advanced deep learning methods for fluorescence microscopy, focusing on AI-based denoising and reconstruction at low signal-to-noise ratios.
+I’m a Master’s graduate in Cognitive Science with a strong passion for **LLM**, **Deep Learning**, and **Computer Vision**. In my Master’s thesis, I explored advanced deep learning methods for fluorescence microscopy, focusing on AI-based denoising and reconstruction at low signal-to-noise ratios.
 
 Alongside my academic journey, I have worked as a **Research Assistant**, **Student Assistant**, and **Student Tutor**, developing solid programming, debugging, and analytical skills. I’m eager to apply my knowledge to impactful projects in **AI, GenAI, and Data Science**.
 
