@@ -12,7 +12,7 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 - **Deep Learning & Computer Vision**: TensorFlow, PyTorch, Keras, OpenCV, Numpy, Scikit-Image, MONAI  
 - **Data Science & NLP**: Pandas, Scikit-Learn, NLTK, Transformer Architectures, Generative AI 
 - **LLMs & AI Agents**: LangChain, LangGraph, CrewAI, Gradio
-- **Tools**: Git, GitLab, Docker, Visual Studio, MLFlow  
+- **Tools**: Git, GitLab, Docker, Visual Studio, MLFlow, W&B  
 - **Operating Systems**: Linux, Windows
 
 ---
