@@ -26,9 +26,16 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 - Ran experiments comparing prompting strategies and measured their impact on segmentation quality and robustness.
 - Used xAI techniques to interpret predictions, analyze failure cases, and strengthen confidence in model behavior to improve trustworthiness for biomedical image applications.
 
-### 🤓 Ask a Nerd   
+
+
+### 🤓 Ask a Nerd: A RAG-based document analysis application  
 **Demo** [https://github.com/ArghaSarker/Ask-a-Nerd]
-A RAG-based document analysis application that lets users upload PDFs and chat with their content using LangChain, OpenAI, and vector search.
+
+- Built a PDF-based chatbot that allows users to upload documents and ask questions about their content.
+- Implemented a Retrieval-Augmented Generation pipeline using LangChain, OpenAI embeddings, and vector search to retrieve relevant document chunks.
+- Designed an interactive Panel interface with conversation history, document configuration, and a database tab showing retrieved sources for better transparency.
+
+
 
 
 ### ㊗ LLM_project: A code base to test FLAN-T5 model on diologue Summarization capability with LoRA
