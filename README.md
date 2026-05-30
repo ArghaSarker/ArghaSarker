@@ -2,7 +2,7 @@
 
 I’m a Master’s graduate in Cognitive Science with a strong passion for **LLM**, **Deep Learning**, and **Computer Vision**. In my Master’s thesis, I explored advanced deep learning methods for fluorescence microscopy, focusing on AI-based denoising and reconstruction at low signal-to-noise ratios.
 
-Alongside my academic journey, I have worked as a **Research Assistant**, **Student Assistant**, and **Student Tutor**, developing solid programming, debugging, and analytical skills. I’m eager to apply my knowledge to impactful projects in **AI, GenAI, and Data Science**.
+Alongside my academic journey, I have worked as a **Research Assistant**, **Student Assistant**, and **Student Tutor**, developing solid programming, debugging, and analytical skills. I’m eager to apply my knowledge to impactful projects in **Computer Vision, LLM, GenAI, and Data Science**.
 
 ---
 
@@ -12,7 +12,7 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 - **Deep Learning & Computer Vision**: TensorFlow, PyTorch, Keras, OpenCV, Numpy, Scikit-Image, MONAI  
 - **Data Science & NLP**: Pandas, Scikit-Learn, NLTK, Transformer Architectures, Generative AI 
 - **LLMs & AI Agents**: LangChain, LangGraph, CrewAI, Gradio
-- **Tools**: Git, GitLab, Docker, Visual Studio, MLFlow, W&B  
+- **Tools**: Git, GitLab, Docker, Visual Studio, MLFlow, W&B, HPC(SLURM) 
 - **Operating Systems**: Linux, Windows
 
 ---
