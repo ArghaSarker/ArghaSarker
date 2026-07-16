@@ -19,6 +19,12 @@ Alongside my academic journey, I have worked as a **Research Assistant**, **Stud
 
 ## 🚀 Projects
 
+### 🧫 YeastMate-YOLO: Yeast Cell and Lifecycle Event Detection
+**Demo** [https://github.com/ArghaSarker/YeastMate-YOLO]
+
+- Fine-tuned YOLOv12 to detect yeast cells and classify budding and mating events in microscopy images.
+- Improved the training process by testing different loss settings and data augmentation techniques.
+
 ### 🦠 MitoSAM: A fine-tuned SAM for mitochondria segmentation
 **Demo** [https://github.com/ArghaSarker/mitosam-vit]
 
